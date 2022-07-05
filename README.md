@@ -7,7 +7,7 @@ created on July 4th
 Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+This project is about learning git commands 
 
 ### Files used
 Include the files used
